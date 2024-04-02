@@ -1,0 +1,4 @@
+h22h -> hexadecimal
+ -> token no reconocido
+
+ -> terminal
